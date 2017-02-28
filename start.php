@@ -1,0 +1,1 @@
+clear && cd && php /root/php-socks5/start.php status && cd && php /root/php-http-proxy/start.php status && cd
